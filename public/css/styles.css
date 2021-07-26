@@ -52,14 +52,15 @@
 .home section article .off{
     color: var(--verde);
     font-size: 16px;
-    width: 70%;
     display: inline-block;
+    width: 50%;
+    padding: 0 5%;
 }
 .home section article h4{
     display: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 426px) {
     .home img.banner{
         display: block;
         width: 100vw;
@@ -92,7 +93,7 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 769px) {
     .home section article .product{
         width: 20vw;
     }

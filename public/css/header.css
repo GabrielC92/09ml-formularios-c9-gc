@@ -64,7 +64,7 @@ header .burger-menu i {
     padding: 10px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 426px) {
     header{
         padding: 25px 25px 0;
     }
@@ -111,6 +111,6 @@ header .burger-menu i {
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 769px) {
     
 }
